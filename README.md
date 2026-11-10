@@ -107,6 +107,8 @@ You can have a look at the file in [`cicd-demo/`](cicd-demo) as an example of un
 >
 > Remember to enable Actions from the **Actions** tab of your fork if GitHub asks you to.
 
+'''TEST
+
 ## Useful commands
 
 ```bash
